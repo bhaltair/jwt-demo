@@ -1,4 +1,9 @@
-# @loopback/example-todo
+# loopback4-example-todo-jwt
+
+This is a modified LoopBack 4 Todo application with JWT authentication.
+It uses `@loopback/authentication-jwt` extension.
+
+---
 
 This is the basic tutorial for getting started with Loopback 4!
 
