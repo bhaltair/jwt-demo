@@ -1414,8 +1414,8 @@
         "signature": "0b5c3bf863e6e598009c045f40740e6b27c3f6371e7cbd52916d1597ffad580c"
       },
       "./src/sequence.ts": {
-        "version": "b172735a46219c41ca144ce0d6995e753e0c6094527d6c5169f6ea91660b1f4d",
-        "signature": "0316119ed978a0ffdfcbefc30bf7fb3a7bbdf7cc2f645c3b8f965f6dcf432d46"
+        "version": "86d88d353ecad44b63e230b6ae4bf3b064a4f4af8e7dfcd2e6d394fd5e728a27",
+        "signature": "1cf3aafba196550e77083459c6ebd0a49beaa6330f31b3518cb47a8388f4aeac"
       },
       "./node_modules/@loopback/authentication-jwt/dist/jwt-authentication-component.d.ts": {
         "version": "afd10d9a92806a3a3db146d4d4ef4ee4a4cf8a5cc6be4ed2a6780badd6e9142a",
@@ -1478,44 +1478,44 @@
         "signature": "756fa01050273b3b386126915fb2d97a8c53842190cb61cbbd265e7fd80d100f"
       },
       "./src/datasources/db.datasource.ts": {
-        "version": "1d5af7440e5173778f0de743a0d9a78b4484da0fea222f2e7d6601e0aa713a3c",
-        "signature": "e99a84202b6dea8a553b494f00da02865c7035c6f9fec96890dfe603b291a225"
+        "version": "ae8ec9690e8011ccedac425ffcd5b59ca0430803e5ecf09595c28904c8943bd2",
+        "signature": "f30de75e39b6e537603a0af155d07adf8c928916589d062321184f383ddbdf0f"
       },
       "./src/datasources/geocoder.datasource.ts": {
-        "version": "03ee7e305addb27381b8d585ba7e3d34e75804841ea4cc9f02d0bb2f120a0658",
-        "signature": "5ce466dbe4a576a3520b16a0ed183799e6197006ef5ba455770889baad96080e"
+        "version": "0f0e13a471a0cc3bc8554395ad4b8079d883eaeca3040efc647fd95050b2ecaf",
+        "signature": "90fd9831d1663dc37e34f1f8aa270e932a951962600ea2b89b2e0cf220a306c7"
       },
       "./src/datasources/index.ts": {
-        "version": "f46437ab1e138a0ac84a7b82253efc44b95692ccacb9ca45a7f4b9f4b0ba00d2",
-        "signature": "4163095d9cc9ef497e9265828707bcd55405dd37eb1bad06282e2080ece155a1"
+        "version": "647de2e7c0675ec6c17b6dc7538088d67682c5c83233d36faeb7bfec524b1505",
+        "signature": "ecc42f90089fe4724c037dc6e400706fdef1c42b5ed566454b0c0c3e09c2cdaf"
       },
       "./src/application.ts": {
-        "version": "6cabd84dbe5109c53e9b9dc6fc270439ced168f3e1a3fbb03664038cbe6e34e7",
-        "signature": "f6e543c8a28fc9ae34ad78b062b1114b69bc1b2a19220bc508077f5b2cb4d54d"
+        "version": "7552ce953b39cc84887f708c04ace00ffd25ca70773637e767e9d65407958642",
+        "signature": "3679d67968d483ea0774feec7834e832bf3ecb7393c39f1a8ade4facc439b2b7"
       },
       "./src/models/todo.model.ts": {
-        "version": "aa9b3ec798f20ca99ea69295cb6f77a270decdebc1dc1cf3a8d34c3a08257ae1",
-        "signature": "25f28312c770c55061f5f67cfdc7809ae998fe86daaa8b7e7b818c8e6e10dfd7"
+        "version": "a32cc8e90b02d2809800d8674ef08b4737a8b8554cd333447ed8e3fe83801828",
+        "signature": "44fb41d368b9869255c0b2b452ad1f0a219b95c092fd7a6aab7c724ef1314b9e"
       },
       "./src/models/index.ts": {
-        "version": "a374d37e44ccb1ad034065e218104685acc9ae3d346ecff522ff1ec6edcfbc70",
-        "signature": "4bb30bc881aaa5f0532df9457e25909cb8c4c611ab304c0ddc13bb3cf4987284"
+        "version": "7b14f525ea8931462202f800af4d529f53602a5362464a62b50b6471a270277c",
+        "signature": "f9cbe9a1bef323f0b7f059cf7d53b97d1567dafbdbf5498189522c79a9a52dd3"
       },
       "./src/repositories/todo.repository.ts": {
-        "version": "a026356feef4fa4ccad49527a31d1d98f3bfca0528c7c6e5388c973d31939751",
-        "signature": "810bfc0a2ecde6da201ba8caa408cae6e2553c1d7f61d0911f5f92da8e783723"
+        "version": "1c9eca41fd940d72ae45af84607e66105b182e3d048017927700b41c835a4901",
+        "signature": "d3ee5ff7ba4ec71e1534e4d5f1a627cd95c1a9e2e02bd8fb24597a4c8763a932"
       },
       "./src/repositories/index.ts": {
-        "version": "b20266a2b91621d99aca480ae8863ecd214ef16bfc85ed1e49ee96cef5eafe5e",
-        "signature": "5beaa836af26b3f9e0a14c1f07aa981c4c4243526f76845ba6bd09ffba20724a"
+        "version": "a9bf0f2ef3b64de01c10ca7a8151997af6e847197b45d76d275fb5c7810177f3",
+        "signature": "b2f1a1c139a9c401f28843fe341dfa14b3a973e8376eb17d69c1e620778eae00"
       },
       "./src/index.ts": {
-        "version": "4efc26f829cc2dae339029f59664fb4e4de9e85256f22374971232e0a85a2a3b",
-        "signature": "749c91422cedcc6b2c214be7603477b1fc827fd3f521e5d7a8b91e3ce7e97aec"
+        "version": "29e6ee6c07cf7128f8503e88a5f3dca63ec46348cc558e9151adfda36f3deb90",
+        "signature": "b174a4a7157bbf2665d85df18738bdce7d6078272fc5b35695a7379028006794"
       },
       "./src/migrate.ts": {
-        "version": "9ae750f4d29abcd95af1f788bc6c61e42f90cb6e18cea6978b9596baea8b4bad",
-        "signature": "d289609b56df6411204c89f5197dc2d4d19910336a10c86cd9b3af21b22e344d"
+        "version": "bc5ac85a0cd2345ec5a45fa7942ad55b24ac59d6c2f3b0ad8f5b4c32b44e91a1",
+        "signature": "e9b8dbbcc0cb738d2836845996cec05b75916fe8314d6d515028b0cab71df9c9"
       },
       "./node_modules/@loopback/http-caching-proxy/dist/http-caching-proxy.d.ts": {
         "version": "7a78cd4e22243e744e8cff5a1200709bcd4d4e79091b752f8255d73a74559eb2",
@@ -1582,12 +1582,12 @@
         "signature": "bbf144d4354e2aaa6439f32761f3ee798cc68d1600adab6e2a596f25269f106d"
       },
       "./src/services/geocoder.service.ts": {
-        "version": "0ff7c4a8814b5a40bf1b949644f55cec6eeaa759744bdf20a2f36a1d80e5f935",
-        "signature": "f2dbb1cb9f363f5d13da82b3e689d4e2c1c623d6f5086572be6822de1362412c"
+        "version": "3cc0759f051f03473de19f274b05a5634825368828ffd5216243a99815a8526b",
+        "signature": "900121b1b73b37b93fa336327c3ce6a68e0137560ca26da696d2c7904d8a6cf1"
       },
       "./src/__tests__/helpers.ts": {
-        "version": "f6d4926a75a9c4ef69253ddf39c3e0f2d7e9e1008dfe1dd403bb1a273aa6eb71",
-        "signature": "d87656bf7fb3516d0212dee0a830c27a9f20ba7692814bb5b4a8b6c347924f87"
+        "version": "823fe3630a07affbdb3bf6b215018b9d20301e6a82c8e52f6ffa2ea7e6087d4f",
+        "signature": "f7a44ece5761627d5ecbaba7c734c6f7d9bc30d6e21a5fcd1ed637ff82a0a83a"
       },
       "./node_modules/@types/cookiejar/index.d.ts": {
         "version": "16b7fb094ffaa5d270f934e7406e8baee2f8245cfabf6dcc20f693389f005f56",
@@ -1670,44 +1670,44 @@
         "signature": "30e0ef39b80862edaedfa7887b4dea69acba51ab6a3425918c9a8fefb55b6613"
       },
       "./src/__tests__/acceptance/test-helper.ts": {
-        "version": "6ca56575c929dbe75cf5498781ef469da1464383b5ecf881625f337910b9d592",
-        "signature": "86ffbcb7bf010575390dde242fdd01e7bc9e6bd918fca06e81ab19f3f270132c"
+        "version": "9a37ddf43e8022b6dbdd4221822ca32a184a8127522afce7bf2853e2307d2c9f",
+        "signature": "54a81df01faacda02febcd3c0e7c15c88e3df8336505384ec0186672687965b7"
       },
       "./src/__tests__/acceptance/home-page.acceptance.ts": {
-        "version": "59cef4946e94ef0d5905cc52a93982c825cfddd80b982e6cfb3b61b97a5e5e3c",
-        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
+        "version": "2e89d111fc6ead9951622568af00182c973d8cd6d10553ee4bde3eae073290bb",
+        "signature": "f761c91419d0a89422a0004ef1a92929dd4d2d5e5c16758654d8b0467d1998c6"
       },
       "./src/services/index.ts": {
-        "version": "13b08bcf3cc0a25f65e26b3d0fa96a43f309c3fe1c3c30106f9dd68c61aee832",
-        "signature": "1ebc14b02817988bf047bc43179e9648c55e34841579f1bdcf15104986c6283b"
+        "version": "6d88f1457afb277f205d3c8ab93255cc7f071cd28bdbd4533be083203f5f50bb",
+        "signature": "378897f69b62374e325d4db8637838672604043d47c4cf2cb953bd87ab6f351a"
       },
       "./src/__tests__/acceptance/todo.acceptance.ts": {
-        "version": "59388a61e0fba5bdec4846fbeb528849664f8bf1aeb0f5606858f100552df236",
-        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
+        "version": "d74cb11cf488fd79a8dd742c2b68d1ae8087dbf7e01d110f5bb6018878214303",
+        "signature": "f761c91419d0a89422a0004ef1a92929dd4d2d5e5c16758654d8b0467d1998c6"
       },
       "./src/__tests__/integration/services/geocoder.service.integration.ts": {
-        "version": "f860423a190ce2048645f71222073533409160436756b7e38b1367383a99cc19",
-        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
+        "version": "2e9f5cf47d6396ec87468283cbb3548797352c92ba2c4eef10665d4d4070b153",
+        "signature": "f761c91419d0a89422a0004ef1a92929dd4d2d5e5c16758654d8b0467d1998c6"
       },
       "./src/controllers/todo.controller.ts": {
-        "version": "a862855598ce903216ef7fb7ed7a1b1a37ba95a11948cde2f33eeba14503fa4b",
-        "signature": "96132e3a3365c759a70b6b7f0a3df879a2d92573205a6ad5d8df5e4c06cd73e5"
+        "version": "3de1d3bc24ecab0be74da9a969b50a4cbc2f2b090cde4542bea84a79f3988ff2",
+        "signature": "787f5ffe2adce092f13844dac6abb0a859f894e094b1a12df7b3908ed471dbb8"
       },
       "./node_modules/@types/bcryptjs/index.d.ts": {
         "version": "9dfe431ab1485e17a6055e186c49da9d23af74b965f2e99f8acc6c958778608f",
         "signature": "9dfe431ab1485e17a6055e186c49da9d23af74b965f2e99f8acc6c958778608f"
       },
       "./src/controllers/user.controller.ts": {
-        "version": "0310dc6b8fb2547a51cc0438f9f7b0d0ef81a0945e4723a60dde09987a17bfb2",
-        "signature": "50a7ced854fc9004263013e9de91a4fe396d916f2af617502260f5fc7359dfff"
+        "version": "6e0812a11836940e89d4fb0d12d3e0edd96d722e81f67729ef975d7ea4f9dca5",
+        "signature": "0c2aec80401b24d51837b9e0d16310fa2e0ab4dc2970758d23dc873f6f456403"
       },
       "./src/controllers/index.ts": {
-        "version": "3d36d51d18e8476d67ef5015467366d419071d86ca88ba0bdf49913797669868",
-        "signature": "4239ad4aa2b7cb4a599604a8dd66e56e30e71ab2291684a7894020cfa3417508"
+        "version": "b5ab408088e08b85d150fe5cdcb8b2eb75567aa506da22ce8ef1fa9054d85e81",
+        "signature": "40e5bbc84d70d864f228e7105b6a347b7aa61abce1676ed3821cac216dcbf785"
       },
       "./src/__tests__/unit/controllers/todo.controller.unit.ts": {
-        "version": "494f9ecaf9eada3f1105eb2691155daa82e163ff9f9cea87bda8b6b27fc3ff99",
-        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
+        "version": "4f4c1151a59655ccdeb7900e715af3dc6b81325c736cd9eaed372534306cf008",
+        "signature": "f761c91419d0a89422a0004ef1a92929dd4d2d5e5c16758654d8b0467d1998c6"
       },
       "./node_modules/@types/color-name/index.d.ts": {
         "version": "f0cb4b3ab88193e3e51e9e2622e4c375955003f1f81239d72c5b7a95415dad3e",
@@ -8024,7 +8024,6 @@
       "./node_modules/@loopback/authentication/dist/services/index.d.ts",
       "./node_modules/@loopback/authentication/dist/index.d.ts",
       "./node_modules/@loopback/authentication/index.d.ts",
-      "./src/sequence.ts",
       "./node_modules/@loopback/authentication-jwt/dist/jwt-authentication-component.d.ts",
       "./node_modules/@loopback/authentication-jwt/dist/models/user-credentials.model.d.ts",
       "./node_modules/@loopback/authentication-jwt/dist/models/user.model.d.ts",
@@ -8040,16 +8039,6 @@
       "./node_modules/@loopback/authentication-jwt/dist/services/index.d.ts",
       "./node_modules/@loopback/authentication-jwt/dist/index.d.ts",
       "./node_modules/@loopback/authentication-jwt/index.d.ts",
-      "./src/datasources/db.datasource.ts",
-      "./src/datasources/geocoder.datasource.ts",
-      "./src/datasources/index.ts",
-      "./src/application.ts",
-      "./src/models/todo.model.ts",
-      "./src/models/index.ts",
-      "./src/repositories/todo.repository.ts",
-      "./src/repositories/index.ts",
-      "./src/index.ts",
-      "./src/migrate.ts",
       "./node_modules/@loopback/http-caching-proxy/dist/http-caching-proxy.d.ts",
       "./node_modules/@loopback/http-caching-proxy/dist/index.d.ts",
       "./node_modules/@loopback/http-caching-proxy/index.d.ts",
@@ -8066,8 +8055,6 @@
       "./node_modules/@types/lodash/ts3.1/common/string.d.ts",
       "./node_modules/@types/lodash/ts3.1/common/util.d.ts",
       "./node_modules/@types/lodash/ts3.1/index.d.ts",
-      "./src/services/geocoder.service.ts",
-      "./src/__tests__/helpers.ts",
       "./node_modules/@types/cookiejar/index.d.ts",
       "./node_modules/@types/superagent/index.d.ts",
       "./node_modules/@types/supertest/index.d.ts",
@@ -8088,14 +8075,7 @@
       "./node_modules/@loopback/testlab/dist/validate-api-spec.d.ts",
       "./node_modules/@loopback/testlab/dist/index.d.ts",
       "./node_modules/@loopback/testlab/index.d.ts",
-      "./src/__tests__/acceptance/test-helper.ts",
-      "./src/__tests__/acceptance/home-page.acceptance.ts",
-      "./src/services/index.ts",
-      "./src/__tests__/acceptance/todo.acceptance.ts",
-      "./src/__tests__/integration/services/geocoder.service.integration.ts",
       "./node_modules/@types/bcryptjs/index.d.ts",
-      "./src/controllers/index.ts",
-      "./src/__tests__/unit/controllers/todo.controller.unit.ts",
       "./node_modules/@types/color-name/index.d.ts",
       "./node_modules/@types/eslint-visitor-keys/index.d.ts",
       "./node_modules/@types/fs-extra/index.d.ts",
@@ -8104,8 +8084,28 @@
       "./node_modules/@types/mocha/index.d.ts",
       "./node_modules/@types/on-finished/index.d.ts",
       "./node_modules/@types/type-is/index.d.ts",
+      "./src/sequence.ts",
+      "./src/datasources/db.datasource.ts",
+      "./src/datasources/index.ts",
+      "./src/datasources/geocoder.datasource.ts",
+      "./src/models/todo.model.ts",
+      "./src/models/index.ts",
+      "./src/repositories/todo.repository.ts",
+      "./src/repositories/index.ts",
+      "./src/controllers/user.controller.ts",
+      "./src/application.ts",
+      "./src/index.ts",
+      "./src/migrate.ts",
+      "./src/services/geocoder.service.ts",
+      "./src/__tests__/helpers.ts",
+      "./src/__tests__/acceptance/test-helper.ts",
+      "./src/__tests__/acceptance/home-page.acceptance.ts",
+      "./src/services/index.ts",
+      "./src/__tests__/acceptance/todo.acceptance.ts",
+      "./src/__tests__/integration/services/geocoder.service.integration.ts",
       "./src/controllers/todo.controller.ts",
-      "./src/controllers/user.controller.ts"
+      "./src/controllers/index.ts",
+      "./src/__tests__/unit/controllers/todo.controller.unit.ts"
     ]
   },
   "version": "3.8.3"

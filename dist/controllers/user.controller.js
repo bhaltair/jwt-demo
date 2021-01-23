@@ -57,7 +57,6 @@ let UserController = class UserController {
         const userProfile = this.userService.convertToUserProfile(user);
         // create a JSON Web Token based on the user profile
         const token = await this.jwtService.generateToken(userProfile);
-        console.log('this.user = ', this.user);
         return { token };
     }
     async whoAmI(currentUserProfile) {
