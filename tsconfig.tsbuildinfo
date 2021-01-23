@@ -1485,9 +1485,13 @@
         "version": "0f0e13a471a0cc3bc8554395ad4b8079d883eaeca3040efc647fd95050b2ecaf",
         "signature": "90fd9831d1663dc37e34f1f8aa270e932a951962600ea2b89b2e0cf220a306c7"
       },
+      "./src/datasources/number.datasource.ts": {
+        "version": "5f16d10d17a6ba9828b4c77f1d717b69b9026086f3efc1a6bfc8197a7ffb363c",
+        "signature": "710784d5d375ffa5ee305b97a4dd9e048c6bbbb57712ed6162027f79b5b4db14"
+      },
       "./src/datasources/index.ts": {
-        "version": "647de2e7c0675ec6c17b6dc7538088d67682c5c83233d36faeb7bfec524b1505",
-        "signature": "ecc42f90089fe4724c037dc6e400706fdef1c42b5ed566454b0c0c3e09c2cdaf"
+        "version": "96e0a59fd285f978dd10cf6acb18a6e85e54fcb56a0e7bdb608d74c7a6796836",
+        "signature": "426dca899602d808a8ac9e49b9cc25c6b96b9711ef5cc564d74c75ea6a9d1842"
       },
       "./src/application.ts": {
         "version": "7552ce953b39cc84887f708c04ace00ffd25ca70773637e767e9d65407958642",
@@ -1677,9 +1681,13 @@
         "version": "2e89d111fc6ead9951622568af00182c973d8cd6d10553ee4bde3eae073290bb",
         "signature": "f761c91419d0a89422a0004ef1a92929dd4d2d5e5c16758654d8b0467d1998c6"
       },
+      "./src/services/number.service.ts": {
+        "version": "f86ac4ee8d5d884dc8f0cee12c1b3b2d69f4f9c8ce3f0b05a7a59c0ecdbe406c",
+        "signature": "078d8d81ebbf6bc88c5b0d161c9c4cafe0070a0e4d73b6d221670c51da7b5dcc"
+      },
       "./src/services/index.ts": {
-        "version": "6d88f1457afb277f205d3c8ab93255cc7f071cd28bdbd4533be083203f5f50bb",
-        "signature": "378897f69b62374e325d4db8637838672604043d47c4cf2cb953bd87ab6f351a"
+        "version": "d79b52e58b0e47786bc953128d0dd430859b6c61a5d87fb9d4ee49dd1d3874b4",
+        "signature": "f38d996efb3868fd099d9410650c419cce97394c09e0c66c34e41170a368a5d5"
       },
       "./src/__tests__/acceptance/todo.acceptance.ts": {
         "version": "d74cb11cf488fd79a8dd742c2b68d1ae8087dbf7e01d110f5bb6018878214303",
@@ -4227,9 +4235,16 @@
         "./node_modules/@types/node/util.d.ts",
         "./node_modules/@types/node/ts3.2/util.d.ts"
       ],
+      "./src/datasources/number.datasource.ts": [
+        "./node_modules/@loopback/core/index.d.ts",
+        "./node_modules/@loopback/repository/index.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
       "./src/datasources/index.ts": [
         "./src/datasources/db.datasource.ts",
         "./src/datasources/geocoder.datasource.ts",
+        "./src/datasources/number.datasource.ts",
         "./node_modules/@types/node/util.d.ts",
         "./node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -4656,8 +4671,16 @@
         "./node_modules/@types/node/util.d.ts",
         "./node_modules/@types/node/ts3.2/util.d.ts"
       ],
+      "./src/services/number.service.ts": [
+        "./node_modules/@loopback/core/index.d.ts",
+        "./node_modules/@loopback/service-proxy/index.d.ts",
+        "./src/datasources/index.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
       "./src/services/index.ts": [
         "./src/services/geocoder.service.ts",
+        "./src/services/number.service.ts",
         "./node_modules/@types/node/util.d.ts",
         "./node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -7221,7 +7244,8 @@
       ],
       "./src/datasources/index.ts": [
         "./src/datasources/db.datasource.ts",
-        "./src/datasources/geocoder.datasource.ts"
+        "./src/datasources/geocoder.datasource.ts",
+        "./src/datasources/number.datasource.ts"
       ],
       "./src/application.ts": [
         "./node_modules/@loopback/boot/index.d.ts",
@@ -7607,7 +7631,8 @@
         "./node_modules/@loopback/testlab/index.d.ts"
       ],
       "./src/services/index.ts": [
-        "./src/services/geocoder.service.ts"
+        "./src/services/geocoder.service.ts",
+        "./src/services/number.service.ts"
       ],
       "./src/controllers/todo.controller.ts": [
         "./src/repositories/index.ts",
@@ -7668,6 +7693,14 @@
         "./node_modules/@types/node/ts3.2/index.d.ts",
         "./node_modules/@types/node/util.d.ts",
         "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./src/datasources/number.datasource.ts": [
+        "./node_modules/@loopback/repository/index.d.ts",
+        "./node_modules/@loopback/core/index.d.ts"
+      ],
+      "./src/services/number.service.ts": [
+        "./src/datasources/index.ts",
+        "./node_modules/@loopback/core/index.d.ts"
       ]
     },
     "semanticDiagnosticsPerFile": [
@@ -8024,6 +8057,7 @@
       "./node_modules/@loopback/authentication/dist/services/index.d.ts",
       "./node_modules/@loopback/authentication/dist/index.d.ts",
       "./node_modules/@loopback/authentication/index.d.ts",
+      "./src/sequence.ts",
       "./node_modules/@loopback/authentication-jwt/dist/jwt-authentication-component.d.ts",
       "./node_modules/@loopback/authentication-jwt/dist/models/user-credentials.model.d.ts",
       "./node_modules/@loopback/authentication-jwt/dist/models/user.model.d.ts",
@@ -8039,6 +8073,12 @@
       "./node_modules/@loopback/authentication-jwt/dist/services/index.d.ts",
       "./node_modules/@loopback/authentication-jwt/dist/index.d.ts",
       "./node_modules/@loopback/authentication-jwt/index.d.ts",
+      "./src/datasources/db.datasource.ts",
+      "./src/datasources/geocoder.datasource.ts",
+      "./src/models/todo.model.ts",
+      "./src/models/index.ts",
+      "./src/repositories/todo.repository.ts",
+      "./src/repositories/index.ts",
       "./node_modules/@loopback/http-caching-proxy/dist/http-caching-proxy.d.ts",
       "./node_modules/@loopback/http-caching-proxy/dist/index.d.ts",
       "./node_modules/@loopback/http-caching-proxy/index.d.ts",
@@ -8076,6 +8116,7 @@
       "./node_modules/@loopback/testlab/dist/index.d.ts",
       "./node_modules/@loopback/testlab/index.d.ts",
       "./node_modules/@types/bcryptjs/index.d.ts",
+      "./src/controllers/user.controller.ts",
       "./node_modules/@types/color-name/index.d.ts",
       "./node_modules/@types/eslint-visitor-keys/index.d.ts",
       "./node_modules/@types/fs-extra/index.d.ts",
@@ -8084,28 +8125,22 @@
       "./node_modules/@types/mocha/index.d.ts",
       "./node_modules/@types/on-finished/index.d.ts",
       "./node_modules/@types/type-is/index.d.ts",
-      "./src/sequence.ts",
-      "./src/datasources/db.datasource.ts",
+      "./src/datasources/number.datasource.ts",
       "./src/datasources/index.ts",
-      "./src/datasources/geocoder.datasource.ts",
-      "./src/models/todo.model.ts",
-      "./src/models/index.ts",
-      "./src/repositories/todo.repository.ts",
-      "./src/repositories/index.ts",
-      "./src/controllers/user.controller.ts",
+      "./src/services/number.service.ts",
+      "./src/services/index.ts",
+      "./src/__tests__/unit/controllers/todo.controller.unit.ts",
+      "./src/controllers/todo.controller.ts",
+      "./src/__tests__/integration/services/geocoder.service.integration.ts",
+      "./src/__tests__/acceptance/todo.acceptance.ts",
+      "./src/services/geocoder.service.ts",
       "./src/application.ts",
       "./src/index.ts",
       "./src/migrate.ts",
-      "./src/services/geocoder.service.ts",
       "./src/__tests__/helpers.ts",
       "./src/__tests__/acceptance/test-helper.ts",
       "./src/__tests__/acceptance/home-page.acceptance.ts",
-      "./src/services/index.ts",
-      "./src/__tests__/acceptance/todo.acceptance.ts",
-      "./src/__tests__/integration/services/geocoder.service.integration.ts",
-      "./src/controllers/todo.controller.ts",
-      "./src/controllers/index.ts",
-      "./src/__tests__/unit/controllers/todo.controller.unit.ts"
+      "./src/controllers/index.ts"
     ]
   },
   "version": "3.8.3"
