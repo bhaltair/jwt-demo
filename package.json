@@ -37,7 +37,7 @@
   "license": "MIT",
   "dependencies": {
     "@loopback/authentication": "^4.2.2",
-    "@loopback/authentication-jwt": "^0.2.0",
+    "@loopback/authentication-jwt": "^0.12.7",
     "@loopback/boot": "^2.1.2",
     "@loopback/context": "^3.6.0",
     "@loopback/core": "^2.4.2",
